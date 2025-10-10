@@ -7,6 +7,13 @@
 </div>
 
 <p align="center">
+  <a href="https://goreportcard.com/badge/github.com/flyingeirc/erban">
+    <img src="https://goreportcard.com/badge/github.com/flyingeirc/erban" alt="GoReportCard">
+  </a>
+</p>
+
+
+<p align="center">
     <img src="./docs/example1.png">
     <img src="./docs/example2.png">
     <img src="./docs/example3.png">
